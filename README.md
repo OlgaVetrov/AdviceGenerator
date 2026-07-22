@@ -1,16 +1,85 @@
-# React + Vite
+# 💡 Advice Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
 
-Currently, two official plugins are available:
+Advice Generator is a React application that provides users with random advice using an external API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The app allows users to receive new advice by clicking a button and displays different pieces of advice dynamically without refreshing the page.
 
-## React Compiler
+## 📚 Table of Contents
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Installation
+Usage
+Technologies
+Main Feature
+Customization
+Live Demo
+Credits
 
-## Expanding the ESLint configuration
+## ⚙️ Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run this project locally, follow these steps:
+
+git clone https://github.com/OlgaVetrov/AdviceGenerator.git
+
+cd AdviceGenerator
+
+npm install
+
+npm run dev
+
+After running the command, the application will open in your browser.
+
+## 🚀 Usage
+
+✨ Advice Generator helps users get random advice whenever they need inspiration or a quick thought.
+
+Users can click the button to generate a new piece of advice and enjoy a simple interactive experience.
+
+✨ What you can do:
+
+💭 Get random advice
+🔄 Generate a new advice with one click
+🎥 Enjoy a video background design
+✨ Explore dynamic content without refreshing the page
+
+## 🛠️ Technologies
+
+This project was built with:
+
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ React | Creating reusable components and managing application state |
+| 🟨 JavaScript | Adding functionality and handling data |
+| 🌐 HTML | Creating the page structure |
+| 🎨 CSS | Styling the application |
+| ⚡ Vite | Development environment and project setup |
+| 🔗 API | Fetching random advice data |
+
+## ⭐ Main Feature
+
+The main idea of this project is generating random advice dynamically.
+
+The application uses React state management and API requests to fetch new advice. When the user clicks the button, a new message appears instantly on the page.
+
+This project helped practice working with external APIs, asynchronous functions, and React Hooks.
+
+## 🎨 Customization
+
+You can customize the background video, colors, fonts, and styling by editing the App.css file and changing the components.
+
+## 🌐 Live Demogit
+
+You can view the project here:
+
+https://randomadvicegeneratorbyolga.netlify.app/
+
+## 👩‍💻 Credits
+
+Created with 💙 by:
+
+Olga Vetrov
+
+GitHub:
+
+https://github.com/OlgaVetrov
