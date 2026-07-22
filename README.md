@@ -38,10 +38,10 @@ Users can click the button to generate a new piece of advice and enjoy a simple 
 
 ✨ What you can do:
 
-💭 Get random advice
-🔄 Generate a new advice with one click
-🎥 Enjoy a video background design
-✨ Explore dynamic content without refreshing the page
+- 💭 Get random advice
+- 🔄 Generate a new advice with one click
+- 🎥 Enjoy a video background design
+- ✨ Explore dynamic content without refreshing the page
 
 ## 🛠️ Technologies
 
