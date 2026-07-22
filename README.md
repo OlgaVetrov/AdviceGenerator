@@ -68,7 +68,7 @@ This project helped practice working with external APIs, asynchronous functions,
 
 You can customize the background video, colors, fonts, and styling by editing the App.css file and changing the components.
 
-## 🌐 Live Demogit
+## 🌐 Live Demo
 
 You can view the project here:
 
